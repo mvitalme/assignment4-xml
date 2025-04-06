@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address Number="11" NearestAirport="Sky Harbor">
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Arizona Grand Resort &amp; Spa</Name>
+    <Phone>602-438-9000</Phone>
+    <Address Number="8000" NearestAirport="PHX">
+      <Street>South Arizona Grand E</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Gila River Resorts &amp; Casinos - Vee Quiva</Name>
+    <Phone>520-796-7777</Phone>
+    <Address Number="15091">
+      <Street>S Komatke Ln</Street>
+      <City>Laveen Village</City>
+      <State>AZ</State>
+      <Zip>85339</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="3.8">
+    <Name>Super 8 by Wyndham Chandler Phoenix</Name>
+    <Phone>480-961-3888</Phone>
+    <Address Number="7171">
+      <Street>W Chandler Blvd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.2">
+    <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
+    <Phone>480-897-7444</Phone>
+    <Phone>800-362-2779</Phone>
+    <Address Number="4400" NearestAirport="PHX">
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
+    <Phone>602-225-9000</Phone>
+    <Address Number="2000">
+      <Street>W Westcourt Way</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>The Scottsdale Plaza Resort &amp; Villas</Name>
+    <Phone>480-948-5000</Phone>
+    <Address Number="7200" NearestAirport="PHX">
+      <Street>N Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85253</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Talking Stick Resort Hotel</Name>
+    <Phone>480-850-7777</Phone>
+    <Address Number="9800">
+      <Street>Talking Stick Way</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85256</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>The Clarendon Hotel and Spa</Name>
+    <Phone>602-252-7363</Phone>
+    <Address Number="401">
+      <Street>W Clarendon Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85013</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
