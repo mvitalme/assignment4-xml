@@ -99,4 +99,16 @@
       <Zip>85013</Zip>
     </Address>
   </Hotel>
+
+  <Hotel Rating="3.9">
+  <Name>Hotel San Carlos</Name>
+  <Phone>602-253-4121</Phone>
+  <Address Number="202" NearestAirport="PHX">
+    <Street>N Central Ave</Street>
+    <City>Phoenix</City>
+    <State>AZ</State>
+    <Zip>85004</Zip>
+  </Address>
+</Hotel>
+
 </Hotels>
