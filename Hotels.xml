@@ -12,7 +12,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.5">
+  <Hotel Rating="4.3">
     <Name>Arizona Grand Resort &amp; Spa</Name>
     <Phone>602-438-9000</Phone>
     <Address Number="8000" NearestAirport="PHX">
@@ -23,7 +23,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.3">
+  <Hotel Rating="4.1">
     <Name>Gila River Resorts &amp; Casinos - Vee Quiva</Name>
     <Phone>520-796-7777</Phone>
     <Address Number="15091">
@@ -34,7 +34,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.8">
+  <Hotel Rating="2.7">
     <Name>Super 8 by Wyndham Chandler Phoenix</Name>
     <Phone>480-961-3888</Phone>
     <Address Number="7171">
@@ -45,7 +45,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.2">
+  <Hotel Rating="4.1">
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
     <Phone>800-362-2779</Phone>
@@ -57,7 +57,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.4">
+  <Hotel Rating="4.3">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
     <Address Number="2000">
@@ -69,6 +69,7 @@
   </Hotel>
 
   <Hotel>
+    <Hotel Rating="4.5">
     <Name>The Scottsdale Plaza Resort &amp; Villas</Name>
     <Phone>480-948-5000</Phone>
     <Address Number="7200" NearestAirport="PHX">
@@ -79,7 +80,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.6">
+  <Hotel Rating="4.3">
     <Name>Talking Stick Resort Hotel</Name>
     <Phone>480-850-7777</Phone>
     <Address Number="9800">
@@ -101,7 +102,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.9">
+  <Hotel Rating="3.8">
   <Name>Hotel San Carlos</Name>
   <Phone>602-253-4121</Phone>
   <Address Number="202" NearestAirport="PHX">
