@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (1) The root element name is Hotel, instead of Hotels -->
 <Hotel>
+
+  <!-- (2) A required attribute is missing -->
   <Hotel Rating="4.5">
     <Name>Arizona Grand Resort &amp; Spa</Name>
     <Phone>602-438-9000</Phone>
-    <Address Number="8000" NearestAirport="PHX">
+    <Address NearestAirport="PHX"> <!-- Missing required attribute: Number -->
       <Street>South Arizona Grand E</Street>
       <City>Phoenix</City>
       <State>AZ</State>
+      <!-- (4) An Address elect has no closing tag -->
       <Zip>85044</Zip>
-    </Hotel>
+    </Hotel> <!-- Missing </Address> -->
 
+  <!-- (3) A Phone element is missing on this Hotel -->
   <Hotel Rating="4.0">
     <Name>Missing Phone Hotel</Name>
     <Address Number="15091">
@@ -20,9 +25,10 @@
     </Address>
   </Hotel>
 
+  <!-- (5) Two names are provided for one of the hotels -->
   <Hotel Rating="5.0">
     <Name>Duplicate Name A</Name>
-    <Name>Duplicate Name B</Name>
+    <Name>Duplicate Name B</Name> <!-- (5) Invalid second <Name> element -->
     <Phone>480-123-4567</Phone>
     <Address Number="9000">
       <Street>Some St</Street>
@@ -31,4 +37,5 @@
       <Zip>85000</Zip>
     </Address>
   </Hotel>
+
 </Hotel>
