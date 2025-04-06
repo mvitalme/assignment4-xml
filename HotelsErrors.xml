@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+  <Hotel Rating="4.5">
+    <Name>Arizona Grand Resort &amp; Spa</Name>
+    <Phone>602-438-9000</Phone>
+    <Address Number="8000" NearestAirport="PHX">
+      <Street>South Arizona Grand E</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Hotel>
+
+  <Hotel Rating="4.0">
+    <Name>Missing Phone Hotel</Name>
+    <Address Number="15091">
+      <Street>S Komatke Ln</Street>
+      <City>Laveen</City>
+      <State>AZ</State>
+      <Zip>85339</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="5.0">
+    <Name>Duplicate Name A</Name>
+    <Name>Duplicate Name B</Name>
+    <Phone>480-123-4567</Phone>
+    <Address Number="9000">
+      <Street>Some St</Street>
+      <City>City</City>
+      <State>AZ</State>
+      <Zip>85000</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
