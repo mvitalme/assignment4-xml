@@ -68,8 +68,7 @@
     </Address>
   </Hotel>
 
-  <Hotel>
-    <Hotel Rating="4.5">
+ <Hotel Rating="4.5">
     <Name>The Scottsdale Plaza Resort &amp; Villas</Name>
     <Phone>480-948-5000</Phone>
     <Address Number="7200" NearestAirport="PHX">
