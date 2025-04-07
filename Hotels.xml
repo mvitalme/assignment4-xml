@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
   <Hotel Rating="4.2">
     <Name>Westin</Name>
@@ -12,6 +12,7 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.3">
     <Name>Arizona Grand Resort &amp; Spa</Name>
     <Phone>602-438-9000</Phone>
@@ -23,10 +24,11 @@
       <Zip>85044</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.1">
     <Name>Gila River Resorts &amp; Casinos - Vee Quiva</Name>
     <Phone>520-796-7777</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>15091</Number>
       <Street>S Komatke Ln</Street>
       <City>Laveen Village</City>
@@ -34,10 +36,11 @@
       <Zip>85339</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="2.7">
     <Name>Super 8 by Wyndham Chandler Phoenix</Name>
     <Phone>480-961-3888</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>7171</Number>
       <Street>W Chandler Blvd</Street>
       <City>Chandler</City>
@@ -45,6 +48,7 @@
       <Zip>85226</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.1">
     <Name>Embassy Suites by Hilton Phoenix Tempe</Name>
     <Phone>480-897-7444</Phone>
@@ -57,10 +61,11 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.3">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>2000</Number>
       <Street>W Westcourt Way</Street>
       <City>Tempe</City>
@@ -68,6 +73,7 @@
       <Zip>85282</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.5">
     <Name>The Scottsdale Plaza Resort &amp; Villas</Name>
     <Phone>480-948-5000</Phone>
@@ -79,10 +85,11 @@
       <Zip>85253</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.3">
     <Name>Talking Stick Resort Hotel</Name>
     <Phone>480-850-7777</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>9800</Number>
       <Street>Talking Stick Way</Street>
       <City>Scottsdale</City>
@@ -90,10 +97,11 @@
       <Zip>85256</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="4.0">
     <Name>The Clarendon Hotel and Spa</Name>
     <Phone>602-252-7363</Phone>
-    <Address>
+    <Address NearestAirport="PHX">
       <Number>401</Number>
       <Street>W Clarendon Ave</Street>
       <City>Phoenix</City>
@@ -101,6 +109,7 @@
       <Zip>85013</Zip>
     </Address>
   </Hotel>
+
   <Hotel Rating="3.8">
     <Name>Hotel San Carlos</Name>
     <Phone>602-253-4121</Phone>
